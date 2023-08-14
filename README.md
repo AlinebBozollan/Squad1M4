@@ -1,10 +1,11 @@
 # Análise Exploratória
 ## Data Insights - Transformando Dados em Sabedoria
 
-Sobre a Empresa
+**Sobre a Empresa**
+
 A Data Insights é uma empresa líder no campo da análise de dados e estatísticas, especializada em fornecer insights precisos que permitem que nossos clientes tomem decisões estratégicas e informadas. Nosso compromisso é transformar dados em sabedoria, capacitando as organizações a aproveitarem ao máximo as informações disponíveis para atingir seus objetivos de negócios.
 
-*Nossos Serviços*
+**Nossos Serviços**
 Nossos serviços são centrados na análise de dados e no fornecimento de informações valiosas. Alguns dos nossos principais serviços incluem:
 
 1. Análise de Dados Avançada: Utilizando as mais recentes técnicas de análise de dados e ferramentas, nossa equipe de analistas altamente qualificados examina conjuntos de dados complexos para identificar padrões, tendências e correlações.
