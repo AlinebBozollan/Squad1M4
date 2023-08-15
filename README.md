@@ -24,4 +24,3 @@ Slogan
 A Data Insights é honrada por ter sido selecionada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma análise exploratória crucial. A ANP é uma instituição de renome que desfruta de um status de referência no setor de petróleo e gás natural no Brasil.
 
 Neste projeto em particular, nossa equipe de analistas de dados colaborará com a ANP para realizar uma análise abrangente da série histórica de preços de venda da gasolina e do etanol. A ANP, conhecida por sua expertise em dados e informações da indústria, reconheceu nossa experiência e capacidade em transformar esses dados em insights acionáveis.
-
